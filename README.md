@@ -60,4 +60,4 @@ Teste interações, visualização de detalhes do pet e comunicação com o abri
 
 O protótipo foi desenvolvido no Adalo para demonstrar as funcionalidades com um banco de dados funcional
 
-QR Code: 
+QR Code: (/image.png)
