@@ -55,3 +55,9 @@ Navegue pelas telas simulando o fluxo de cadastro, login, busca por pets e solic
 
 Teste interações, visualização de detalhes do pet e comunicação com o abrigo.
 
+
+### Protótipo no Adalo
+
+O protótipo foi desenvolvido no Adalo para demonstrar as funcionalidades com um banco de dados funcional
+
+QR Code: 
