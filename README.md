@@ -57,6 +57,52 @@ Teste interações, visualização de detalhes do pet e comunicação com o abri
 
 Link para o Backlog: https://docs.google.com/document/d/1HDntjcPTwgAinjZChciEZUD7EzPiYMX0EX-AEeOv9Mg/edit?tab=t.0#heading=h.xk87ffz9g1zq
 
+Aqui está o backlog formatado em Markdown para você colocar direto no **README**:
+
+```markdown
+# Backlog – Adota Fácil
+
+## Autenticação
+- **Cadastro de usuário**: Permite que o usuário crie uma conta com email, senha, nome e username.  
+- **Login**: Usuário acessa o app com email e senha.  
+- **Logout**: Usuário pode sair da conta com segurança.  
+- **Recuperar senha**: Envia link ou opção para redefinição de senha.  
+
+## Perfil
+- **Visualizar perfil**: Exibe informações do usuário (nome, email, seguidores, pets cadastrados).  
+- **Editar perfil**: Permite atualizar nome, email, username, foto e localização.  
+- **Excluir conta**: Remove permanentemente os dados do usuário.  
+- **Ver seguidores/seguindo**: Mostra quem o usuário segue e quem o segue.  
+
+## Pets
+- **Cadastrar pet**: Usuário cuidador registra um pet (nome, idade, raça, foto e descrição).  
+- **Listar pets**: Mostra todos os pets disponíveis para adoção.  
+- **Filtrar pets**: Permite aplicar filtros (categoria, idade, raça etc.).  
+- **Ver detalhes do pet**: Exibe informações completas de um pet específico.  
+
+## Adoção
+- **Solicitar adoção**: Usuário envia uma solicitação ao cuidador para adotar um pet.  
+- **Confirmar envio de solicitação**: Exibe mensagem de sucesso confirmando o envio da solicitação.  
+
+## Favoritos
+- **Adicionar aos favoritos**: Usuário pode salvar pets de interesse para acessar depois.  
+- **Listar favoritos**: Mostra todos os pets salvos como favoritos.  
+- **Remover dos favoritos**: Permite excluir um pet da lista de favoritos.  
+
+## Conversas
+- **Iniciar chat**: Usuário pode começar uma conversa com outro usuário/cuidador.  
+- **Enviar mensagens**: Permite troca de mensagens em tempo real.  
+- **Visualizar histórico**: Exibe todas as mensagens trocadas anteriormente.  
+
+## Extras
+- **Notificações push**: Envia alertas sobre mensagens e solicitações de adoção.  
+- **Avaliações**: Permite avaliar cuidadores/adotantes após adoção.  
+- **Geolocalização**: Mostra pets disponíveis próximos à localização do usuário.  
+```
+
+Quer que eu monte também uma **tabela em Markdown** (com colunas Módulo, Funcionalidade, Descrição) para ficar mais visual, tipo checklist?
+
+
 
 ### Protótipo no Adalo
 
