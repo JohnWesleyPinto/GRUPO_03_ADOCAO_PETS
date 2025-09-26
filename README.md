@@ -98,7 +98,7 @@ Aqui está o backlog formatado em Markdown para você colocar direto no **README
 - **Notificações push**: Envia alertas sobre mensagens e solicitações de adoção.  
 - **Avaliações**: Permite avaliar cuidadores/adotantes após adoção.  
 - **Geolocalização**: Mostra pets disponíveis próximos à localização do usuário.  
-```
+
 
 
 
