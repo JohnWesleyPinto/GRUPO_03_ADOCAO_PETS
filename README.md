@@ -57,7 +57,7 @@ Teste interações, visualização de detalhes do pet e comunicação com o abri
 
 Link para o Backlog: https://docs.google.com/document/d/1HDntjcPTwgAinjZChciEZUD7EzPiYMX0EX-AEeOv9Mg/edit?tab=t.0#heading=h.xk87ffz9g1zq
 
-Aqui está o backlog formatado em Markdown para você colocar direto no **README**:
+
 
 
 # Backlog – Adota Fácil
