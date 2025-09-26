@@ -13,7 +13,7 @@ Iasmim de Melo
 
 John Wesley da Silva
 
-Lucas Henrique da Silva
+Lucas Henrique da Silva menezes
 
 Marcos Vinicius Satro
 
@@ -54,6 +54,8 @@ Acesse o link do Figma.
 Navegue pelas telas simulando o fluxo de cadastro, login, busca por pets e solicitação de adoção.
 
 Teste interações, visualização de detalhes do pet e comunicação com o abrigo.
+
+Link para o Backlog: https://docs.google.com/document/d/1HDntjcPTwgAinjZChciEZUD7EzPiYMX0EX-AEeOv9Mg/edit?tab=t.0#heading=h.xk87ffz9g1zq
 
 
 ### Protótipo no Adalo
