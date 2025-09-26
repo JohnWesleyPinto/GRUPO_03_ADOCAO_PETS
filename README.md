@@ -59,7 +59,7 @@ Link para o Backlog: https://docs.google.com/document/d/1HDntjcPTwgAinjZChciEZUD
 
 Aqui está o backlog formatado em Markdown para você colocar direto no **README**:
 
-```markdown
+
 # Backlog – Adota Fácil
 
 ## Autenticação
@@ -100,7 +100,6 @@ Aqui está o backlog formatado em Markdown para você colocar direto no **README
 - **Geolocalização**: Mostra pets disponíveis próximos à localização do usuário.  
 ```
 
-Quer que eu monte também uma **tabela em Markdown** (com colunas Módulo, Funcionalidade, Descrição) para ficar mais visual, tipo checklist?
 
 
 
